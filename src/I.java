@@ -1,4 +1,4 @@
-public class I implements G, H {
+public class I extends null implements G, H {
 
     private long h = 1234;
 
@@ -34,5 +34,17 @@ public class I implements G, H {
 
     public long dd() {
         return 33;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public long ac() {
+        return 333;
     }
 }

@@ -1,4 +1,4 @@
-public class J implements H {
+public class J extends null implements H {
 
     private double k = 100.500;
 
@@ -26,5 +26,17 @@ public class J implements H {
 
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public void ab() {
+        System.out.println("\n");
     }
 }
