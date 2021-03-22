@@ -35,4 +35,8 @@ public class I implements G, H {
     public long dd() {
         return 33;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
