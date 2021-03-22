@@ -63,4 +63,8 @@ public class I extends null implements G, H {
     public void ab() {
         return;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }

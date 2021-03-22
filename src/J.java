@@ -47,4 +47,8 @@ public class J extends null implements H {
     public Object rr() {
         return null;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
