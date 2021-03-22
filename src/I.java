@@ -47,4 +47,20 @@ public class I extends null implements G, H {
     public long ac() {
         return 333;
     }
+
+    public double ad() {
+        return 12.12;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void ab() {
+        return;
+    }
 }

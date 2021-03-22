@@ -20,6 +20,14 @@ public class J extends null implements H {
         return new java.util.Random();
     }
 
+    public Object pp() {
+        return this;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
     public float ff() {
         return 0;
     }
@@ -32,11 +40,11 @@ public class J extends null implements H {
         return 1;
     }
 
-    public Object pp() {
-        return this;
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 
-    public void ab() {
-        System.out.println("\n");
+    public Object rr() {
+        return null;
     }
 }
