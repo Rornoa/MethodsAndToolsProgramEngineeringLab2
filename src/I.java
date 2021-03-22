@@ -31,4 +31,8 @@ public class I implements G, H {
     public String kk() {
         return "Hello world";
     }
+
+    public long dd() {
+        return 33;
+    }
 }
