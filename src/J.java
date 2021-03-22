@@ -31,4 +31,8 @@ public class J implements H {
     public byte oo() {
         return 1;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
