@@ -27,4 +27,8 @@ public class I implements G, H {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

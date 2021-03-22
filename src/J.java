@@ -19,4 +19,8 @@ public class J implements H {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
