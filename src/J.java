@@ -27,4 +27,8 @@ public class J implements H {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
