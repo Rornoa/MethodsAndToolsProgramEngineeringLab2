@@ -21,6 +21,7 @@ public class I implements G, H {
     }
 
     public void bb() {
+        System.out.print();
         System.out.println(42);
     }
 
